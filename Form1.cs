@@ -16,5 +16,56 @@ namespace SorveteriaMarrom5000
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                textBox1.ForeColor = Color.White;
+                
+            }
+            catch
+            {
+
+            }
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                textBox2.ForeColor = Color.White;
+                
+            }
+            catch
+            {
+
+            }
+        }
+
+        private void textBox1_Click(object sender, EventArgs e)
+        {
+            textBox1.SelectAll();
+        }
+
+        private void textBox2_Click(object sender, EventArgs e)
+        {
+            textBox2.SelectAll();
+        }
+
+        private void button1_MouseEnter(object sender, EventArgs e)
+        {
+            button1.ForeColor = Color.Black;
+        }
+
+        private void button1_MouseLeave(object sender, EventArgs e)
+        {
+            button1.ForeColor = Color.Lime;
+        }
     }
 }
