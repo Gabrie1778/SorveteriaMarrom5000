@@ -16,5 +16,10 @@ namespace SorveteriaMarrom5000
         {
             InitializeComponent();
         }
+
+        private void frmMenu_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
