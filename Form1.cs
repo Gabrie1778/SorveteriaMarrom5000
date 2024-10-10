@@ -67,5 +67,24 @@ namespace SorveteriaMarrom5000
         {
             button1.ForeColor = Color.Lime;
         }
+
+        private void button1_MouseClick(object sender, MouseEventArgs e)
+        {
+            
+        }
+        private void button2_MouseClick(object sender, MouseEventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void button2_MouseEnter(object sender, EventArgs e)
+        {
+            button2.ForeColor = Color.Black;
+        }
+
+        private void button2_MouseLeave(object sender, EventArgs e)
+        {
+            button2.ForeColor = Color.Red;
+        }
     }
 }

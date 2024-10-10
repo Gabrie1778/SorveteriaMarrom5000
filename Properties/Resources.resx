@@ -121,4 +121,7 @@
   <data name="f3d1edf10d63c40e1fa06364176fa502" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\f3d1edf10d63c40e1fa06364176fa502.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="WhatsApp Image 2024-10-09 at 7.22.37 PM" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WhatsApp Image 2024-10-09 at 7.22.37 PM.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

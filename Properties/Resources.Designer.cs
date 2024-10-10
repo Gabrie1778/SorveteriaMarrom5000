@@ -69,5 +69,15 @@ namespace SorveteriaMarrom5000.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2024_10_09_at_7_22_37_PM {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2024-10-09 at 7.22.37 PM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
